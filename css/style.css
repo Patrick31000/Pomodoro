@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'DS-DIGIB';
+    src: url('../fonts/DS-DIGIB.TTF') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+#timer {
+    font-size: 40px;
+    font-family: 'DS-DIGIB';
+}
+
+#chrono {
+    text-align: center;
+    font-family: 'DS-DIGIB';
+}
